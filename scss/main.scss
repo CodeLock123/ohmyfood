@@ -1,0 +1,13 @@
+@import "abstracts/variables";
+@import "components/buttons";
+@import "layout/footer";
+@import "layout/header";
+@import "layout/menu";
+@import "layout/homepage";
+@import "components/loader";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
